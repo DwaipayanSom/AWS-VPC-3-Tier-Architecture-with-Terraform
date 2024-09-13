@@ -31,3 +31,5 @@ Tiered Services:
   Database Tier: Dedicated private subnets ensure secure and isolated database operations.
 
 By leveraging Terraform, the entire infrastructure is automated and can be provisioned with minimal manual intervention, improving efficiency and scalability. The design ensures high availability, security, and flexibility, critical for production environments.
+
+Blog Link: https://retrinexdevops.hashnode.dev/aws-vpc-3-tier-architecture-using-terraform
